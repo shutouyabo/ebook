@@ -166,7 +166,6 @@ const sidebars = {
     },
     items: [
       '使用R语言进行数据分析',
-      'CSS学习笔记',
       'HTML学习笔记',
     ],
   },
@@ -323,8 +322,6 @@ const sidebars = {
       '中台的概念',
       '画图基础',
       '智能硬件产品经理的技术要求',
-      '如何撰写一份BRD',
-      '软件开发中的注意事项',
       '专业与分工',
       '关于复盘',
     ],
@@ -346,12 +343,10 @@ const sidebars = {
       '移除Chrome（Edge）由组织管理',
       '用群晖自带反向代理实现HTTPS访问',
       '解决Google相册导出时间信息丢失问题',
-      '使用gitignore忽略特殊文件',
       '如何批量拉取Git仓库更新',
       '如何用Markdown写公众号文章',
       '如何快速删除node_modules',
       '如何为公众号文章增加特效',
-      '如何在Linux下使用微信',
       '如何打印出手写效果的文字',
       '如何从乐曲中分离音轨',
       '如何高效制作幻灯片',
@@ -363,7 +358,6 @@ const sidebars = {
       'GitHub改Host',
       'MSI主板开启虚拟化的方法',
       'Git配置代理',
-      '删除GitHub仓库中某个文件夹',
       '定制SublimeText3',
       '用Vercel加速Pages服务',
       'Doxygen注释规范',
@@ -385,7 +379,6 @@ const sidebars = {
     items: [
       '如何调制一杯鸡尾酒',
       '太阳高度角计算',
-      '如何准备一个逃生背包',
       '谈谈未来的职业选择',
       //'如何合理配置个人资产',
       '读《黑客与画家》',
@@ -426,7 +419,6 @@ const sidebars = {
       'Docusaurus极简部署指南', // CSDN todo
       'Hugo极简搭建指南', // CSDN todo
       '如何在iPad上运行VSCode', // CSDN
-      '使用Markdown高效写作', // CSDN
       '用树莓派架设云打印服务器', // CSDN todo
       '用Graphviz绘制关系图', // CSDN todo
       'RSS-高效率的阅读方式',
