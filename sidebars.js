@@ -14,7 +14,7 @@ const sidebars = {
         //keywords: ['热门杂志', '故事会'],
       },
       items: [
-        'hotzazhi/gsh_zk/故事会2025年正刊',
+        'hotzazhi/gsh_zk/故事会2025年 正刊',
         'hotzazhi/gsh_zk/基本元器件-电容',
         'hotzazhi/gsh_zk/论文工具收集',
         'hotzazhi/gsh_zk/基本元器件-电感与磁珠',
