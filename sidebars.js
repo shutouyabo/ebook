@@ -479,5 +479,3 @@ module.exports = sidebars;
 //'unlist/如何用LaTeX写论文',
 
 // preview
-//'我是如何做数据容灾的',
-//'如何用Markdown写学术论文',
