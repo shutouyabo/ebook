@@ -462,20 +462,3 @@ module.exports = sidebars;
 //'archive/STM32模块设计-LED',
 //'archive/团队公开知识库的搭建',
 
-// unlist：
-//'unlist/电源设计-LDO跳变抑制能力对比测试记录',
-//'unlist/CentOS安装Docker',
-//'unlist/乐谱-Imagine',
-//'unlist/Docker方式运行code-server',
-//'unlist/T-Clock桌上小钟（旧）',
-//'unlist/构建知识管理系统',
-//'unlist/回归博客',
-//'unlist/团队知识库搭建记录-DokuWiki',
-//'unlist/个人知识库极简搭建指南-VuePress',
-//'unlist/博客转至GitBook',
-//'unlist/浅谈Bitcron博客平台',
-//'unlist/基于docsify搭建个人Wiki',
-//'unlist/PCB名片的设计',
-//'unlist/如何用LaTeX写论文',
-
-// preview
