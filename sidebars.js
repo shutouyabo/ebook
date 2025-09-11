@@ -14,7 +14,7 @@ const sidebars = {
         //keywords: ['热门杂志', '故事会正刊', '故事会' ],
       },
       items: [
-        'hot-zazhi/gsh_zk/故事会2025',
+        'hot-zazhi/gsh_zk/- 故事会2025',
         'hot-zazhi/gsh_zk/故事会2024',
         'hot-zazhi/gsh_zk/故事会2023',
         'hot-zazhi/gsh_zk/故事会2022',
