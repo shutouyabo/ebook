@@ -173,13 +173,13 @@ const config = {
             position: "right",
           },
           {
-            to: "醉轻舟",
-            label: "醉轻舟",
+            to: "小说",
+            label: "小说",
             position: "right",
           },
           {
-            to: "效率指南",
-            label: "效率指南",
+            to: "工具书",
+            label: "工具书",
             position: "right",
           },
 

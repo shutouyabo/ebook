@@ -62,13 +62,13 @@ const sidebars = {
 
 
 
-  醉轻舟: [
+  小说: [
 
     {
     type: 'category',
     label: '女优介绍',
     link: {
-      slug: '/醉轻舟',
+      slug: '/小说',
       type: 'generated-index',
       //description: 'describtion to be updated',
       //keywords: ['x', 'x'],
@@ -213,11 +213,11 @@ const sidebars = {
   ],
 
 
-  效率指南: [{
+  工具书: [{
     type: 'category',
     label: '机器人队行政',
     link: {
-      slug: '/效率指南',
+      slug: '/工具书',
       type: 'generated-index',
       //description: 'describtion to be updated',
       //keywords: ['x', 'x'],
