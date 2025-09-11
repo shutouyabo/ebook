@@ -11,7 +11,7 @@ const sidebars = {
         slug: '/热门杂志',
         type: 'generated-index',
         //description: '',
-        //keywords: ['热门杂志', '杂志', '故事会'],
+        //keywords: ['热门杂志', '杂志', '故事会', ],
       },
       items: [
         'wangzhuzi/gushihuizhengkan/《故事会》2025年 正刊',
@@ -41,7 +41,7 @@ const sidebars = {
       link: {
         type: 'generated-index',
         //description: ' ',
-        //keywords: ['热门杂志', '杂志', '故事会校园版'],
+        //keywords: ['热门杂志', '杂志', '故事会校园版', ],
       },
       items: [
         'wangzhuzi/shengfu/RobotCtrl-STM32通用开发套件',
