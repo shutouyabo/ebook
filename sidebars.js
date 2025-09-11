@@ -6,12 +6,12 @@ const sidebars = {
 
     {
       type: 'category',
-      label: '竹子后庭玩法教学系列',
+      label: '《故事会》正刊',
       link: {
         slug: '/热门杂志',
         type: 'generated-index',
         //description: '',
-        //keywords: ['热门杂志', '杂志', '故事会', '读者', '意林'],
+        //keywords: ['热门杂志', '杂志', '故事会'],
       },
       items: [
         'wangzhuzi/houting/BDSM灌肠器道具教学分享',
@@ -25,11 +25,11 @@ const sidebars = {
 
     {
       type: 'category',
-      label: '竹子的专业绳缚教学',
+      label: '《故事会》校园版',
       link: {
         type: 'generated-index',
         //description: ' ',
-        //keywords: ['竹子的专业绳缚教学', '协议', ],
+        //keywords: ['热门杂志', '杂志', '故事会校园版'],
       },
       items: [
         'wangzhuzi/shengfu/RobotCtrl-STM32通用开发套件',
