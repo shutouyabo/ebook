@@ -168,8 +168,8 @@ const config = {
 
         items: [
           {
-            to: "热门杂志",
-            label: "热门杂志",
+            to: "王竹子",
+            label: "王竹子",
             position: "right",
           },
           {
