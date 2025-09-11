@@ -1,8 +1,28 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
 
+
+  Home: [
+
+    {
+    type: 'category',
+    label: 'Home',
+    link: {
+      slug: '/Home',
+      type: 'generated-index',
+      //description: 'describtion to be updated',
+      //keywords: ['x', 'x'],
+    },
+    items: [
+      'Home',
+    ],
+  },
+
+  ],
+
+
+
   热门杂志: [
-    'Home',
 
     {
       type: 'category',
