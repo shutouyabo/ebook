@@ -229,7 +229,6 @@ const sidebars = {
     },
     items: [
       '前端开发-环境搭建',
-      'BookJourney-二手书商城小程序',
       'Git学习笔记',
       '麦轮小车',
     ],
