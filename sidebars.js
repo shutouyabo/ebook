@@ -11,7 +11,7 @@ const sidebars = {
         slug: '/热门杂志',
         type: 'generated-index',
         //description: '',
-        //keywords: ['王竹子', '竹子后庭玩法教学系列', '电阻', '电容', '电感', '磁珠', '二极管', '三极管', 'MOS', '运算放大器', '数字电路', '设计规范', '推挽开漏', '共模差模', '储存介质', '锂电池', '编码器'],
+        //keywords: ['热门杂志', '故事会正刊', '故事会' ],
       },
       items: [
         'hot-zazhi/gsh_zk/BDSM灌肠器道具教学分享',
@@ -24,7 +24,7 @@ const sidebars = {
       link: {
         type: 'generated-index',
         //description: ' ',
-        //keywords: ['竹子的专业绳缚教学', '协议', ],
+        //keywords: ['热门杂志', '故事会校园版', '故事会' ],
       },
       items: [
         'hot-zazhi/gsh_xyb/RobotCtrl-STM32通用开发套件',
@@ -37,7 +37,7 @@ const sidebars = {
       link: {
         type: 'generated-index',
         //description: ' ',
-        //keywords: ['王竹子的SM教学', 'USB', ],
+        //keywords: ['热门杂志', '杂志', '意林' ],
       },
       items: [
         'hot-zazhi/yilin/TinyDVR-小巧身材，满载动力',
@@ -50,7 +50,7 @@ const sidebars = {
       link: {
         type: 'generated-index',
         //description: ' ',
-        //keywords: ['竹子的生活分享频道', 'USB',],
+        //keywords: ['热门杂志', '杂志', '读者' ],
       },
       items: [
         'hot-zazhi/duzhe/通信协议-数字逻辑电平',
