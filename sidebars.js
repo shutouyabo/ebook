@@ -8,7 +8,7 @@ const sidebars = {
       type: 'category',
       label: '故事会 正刊',
       link: {
-        slug: '/热门杂志',
+        //slug: '/热门杂志',
         type: 'generated-index',
         //description: '',
         //keywords: ['热门杂志', '故事会正刊', '故事会' ],
