@@ -8,9 +8,9 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ebook电子书下载',
+  title: 'SM Wiki',
   tagline: '^_^',
-  url: 'https://ebook.zhihu.blog',
+  url: 'https://sm.zhihu.blog',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -168,8 +168,8 @@ const config = {
 
         items: [
           {
-            to: "热门杂志",
-            label: "热门杂志",
+            to: "王竹子",
+            label: "王竹子",
             position: "right",
           },
           {

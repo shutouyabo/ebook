@@ -1,47 +1,35 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
 
-  热门杂志: [
+  王竹子: [
     'Home',
 
     {
       type: 'category',
-      label: '《故事会》正刊',
+      label: '竹子后庭玩法教学系列',
       link: {
-        slug: '/热门杂志',
+        slug: '/王竹子',
         type: 'generated-index',
         //description: '',
-        //keywords: ['热门杂志', '杂志', '故事会', ],
+        //keywords: ['王竹子', '竹子后庭玩法教学系列', '电阻', '电容', '电感', '磁珠', '二极管', '三极管', 'MOS', '运算放大器', '数字电路', '设计规范', '推挽开漏', '共模差模', '储存介质', '锂电池', '编码器'],
       },
       items: [
-        'wangzhuzi/gushihuizhengkan/《故事会》2025年 正刊',
-        'wangzhuzi/gushihuizhengkan/《故事会》2024年 正刊',
-        'wangzhuzi/gushihuizhengkan/《故事会》2023年 正刊',
-        'wangzhuzi/gushihuizhengkan/《故事会》2022年 正刊',
-        'wangzhuzi/gushihuizhengkan/《故事会》2021年 正刊',
-        'wangzhuzi/gushihuizhengkan/《故事会》2020年 正刊',
-        'wangzhuzi/gushihuizhengkan/《故事会》2019年 正刊',
-        'wangzhuzi/gushihuizhengkan/《故事会》2018年 正刊',
-        'wangzhuzi/gushihuizhengkan/《故事会》2017年 正刊',
-        'wangzhuzi/gushihuizhengkan/《故事会》2016年 正刊',
-        'wangzhuzi/gushihuizhengkan/《故事会》2015年 正刊',
-        'wangzhuzi/gushihuizhengkan/《故事会》2014年 正刊',
-        'wangzhuzi/gushihuizhengkan/《故事会》2013年 正刊',
-        'wangzhuzi/gushihuizhengkan/《故事会》2012年 正刊',
-        'wangzhuzi/gushihuizhengkan/《故事会》2011年 正刊',
-        'wangzhuzi/gushihuizhengkan/《故事会》2010年 正刊',
-        'wangzhuzi/gushihuizhengkan/《故事会》2009年 正刊',
-        'wangzhuzi/gushihuizhengkan/《故事会》2008年 正刊',
+        'wangzhuzi/houting/BDSM灌肠器道具教学分享',
+        'wangzhuzi/houting/基本元器件-电容',
+        'wangzhuzi/houting/论文工具收集',
+        'wangzhuzi/houting/基本元器件-电感与磁珠',
+        'wangzhuzi/houting/基本元器件-二极管',
+        'wangzhuzi/houting/基本元器件-晶体三级管',
       ],
     },
 
     {
       type: 'category',
-      label: '《故事会》校园版',
+      label: '竹子的专业绳缚教学',
       link: {
         type: 'generated-index',
         //description: ' ',
-        //keywords: ['热门杂志', '杂志', '故事会校园版', ],
+        //keywords: ['竹子的专业绳缚教学', '协议', ],
       },
       items: [
         'wangzhuzi/shengfu/RobotCtrl-STM32通用开发套件',
