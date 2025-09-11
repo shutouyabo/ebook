@@ -135,7 +135,12 @@ const sidebars = {
       'Linux学习笔记-用户操作',
       '嵌入式Linux-基础知识',
       '嵌入式Linux-GPIO子系统',
+      'BeagleBone系列-基本参数与环境配置',
+      'BeagleBone系列-无线连接',
+      'BeagleBone系列-使用BBIO库开发',
+      'BeagleBone系列-BBAI入坑',
       'JetsonNano系列-入坑',
+      'ATTiny85调试记录',
       'T-Clock桌上小钟',
     ],
   },
@@ -165,6 +170,8 @@ const sidebars = {
       //keywords: ['x', 'x'],
     },
     items: [
+      '使用R语言进行数据分析',
+      'CSS学习笔记',
       'HTML学习笔记',
     ],
   },
@@ -227,6 +234,7 @@ const sidebars = {
     },
     items: [
       '前端开发-环境搭建',
+      'BookJourney-二手书商城小程序',
       'Git学习笔记',
       '麦轮小车',
     ],
@@ -295,6 +303,9 @@ const sidebars = {
       //keywords: ['x', 'x'],
     },
     items: [
+      '四校交流-策划案',
+      '四校交流-策划案-正式',
+      '团队知识库的搭建-理论',
       '队内影像资源管理方法',
       '大扫除-经验模板',
       '校门口车辆放行-流程',
@@ -318,6 +329,8 @@ const sidebars = {
       '中台的概念',
       '画图基础',
       '智能硬件产品经理的技术要求',
+      '如何撰写一份BRD',
+      '软件开发中的注意事项',
       '专业与分工',
       '关于复盘',
     ],
@@ -339,10 +352,13 @@ const sidebars = {
       '移除Chrome（Edge）由组织管理',
       '用群晖自带反向代理实现HTTPS访问',
       '解决Google相册导出时间信息丢失问题',
+      '使用gitignore忽略特殊文件',
+      '3D打印：ABS与PLA的区别',
       '如何批量拉取Git仓库更新',
       '如何用Markdown写公众号文章',
       '如何快速删除node_modules',
       '如何为公众号文章增加特效',
+      '如何在Linux下使用微信',
       '如何打印出手写效果的文字',
       '如何从乐曲中分离音轨',
       '如何高效制作幻灯片',
@@ -354,9 +370,11 @@ const sidebars = {
       'GitHub改Host',
       'MSI主板开启虚拟化的方法',
       'Git配置代理',
+      '删除GitHub仓库中某个文件夹',
       '定制SublimeText3',
       '用Vercel加速Pages服务',
       'Doxygen注释规范',
+      'AltiumDesigner安装库文件',
       'CentOS配置OhMyZsh',
       '如何快速制作一个启动盘',
       '使用VSCode进行远程开发',
@@ -374,6 +392,9 @@ const sidebars = {
     },
     items: [
       '如何调制一杯鸡尾酒',
+      '太阳高度角计算',
+      '如何准备一个逃生背包',
+      '谈谈未来的职业选择',
       //'如何合理配置个人资产',
       '读《黑客与画家》',
       //'英语六级-备考',
@@ -381,6 +402,7 @@ const sidebars = {
       'THEHack2019黑客马拉松',
       'Hack.init()黑客马拉松',
       '焊接大赛培训及总结',
+      //'为什么要「站在巨人的肩膀上」',
       '如何不被AI取代',
       //'一些观点',
     ],
@@ -403,6 +425,7 @@ const sidebars = {
       '使用rdp访问群晖NAS', // CSDN
       '如何用Markdown写一份简历', // CSDN
       '使用Rclone同步网盘数据',
+      '为什么你需要一个知识库', // CSDN
       '个人文案排版规范', // CSDN todo
       '技术文档写作规范', // CSDN todo
       '如何保存易逝的文字',
@@ -411,6 +434,7 @@ const sidebars = {
       'Docusaurus极简部署指南', // CSDN todo
       'Hugo极简搭建指南', // CSDN todo
       '如何在iPad上运行VSCode', // CSDN
+      '使用Markdown高效写作', // CSDN
       '用树莓派架设云打印服务器', // CSDN todo
       '用Graphviz绘制关系图', // CSDN todo
       'RSS-高效率的阅读方式',
