@@ -1,17 +1,17 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
 
-  王竹子: [
+  热门杂志: [
     'Home',
 
     {
       type: 'category',
       label: '竹子后庭玩法教学系列',
       link: {
-        slug: '/王竹子',
+        slug: '/热门杂志',
         type: 'generated-index',
         //description: '',
-        //keywords: ['王竹子', '竹子后庭玩法教学系列', '电阻', '电容', '电感', '磁珠', '二极管', '三极管', 'MOS', '运算放大器', '数字电路', '设计规范', '推挽开漏', '共模差模', '储存介质', '锂电池', '编码器'],
+        //keywords: ['热门杂志', '故事会'],
       },
       items: [
         'wangzhuzi/houting/BDSM灌肠器道具教学分享',
