@@ -170,17 +170,17 @@ const config = {
           {
             to: "热门杂志",
             label: "热门杂志",
-            position: "right",
+            position: "left",
           },
           {
             to: "小说",
             label: "小说",
-            position: "right",
+            position: "left",
           },
           {
             to: "工具书",
             label: "工具书",
-            position: "right",
+            position: "left",
           },
 
           {
