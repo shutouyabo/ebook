@@ -14,12 +14,12 @@ const sidebars = {
         //keywords: ['热门杂志', '故事会'],
       },
       items: [
-        'hotzazhi/houting/BDSM灌肠器道具教学分享',
-        'hotzazhi/houting/基本元器件-电容',
-        'hotzazhi/houting/论文工具收集',
-        'hotzazhi/houting/基本元器件-电感与磁珠',
-        'hotzazhi/houting/基本元器件-二极管',
-        'hotzazhi/houting/基本元器件-晶体三级管',
+        'hotzazhi/gsh-zk/BDSM灌肠器道具教学分享',
+        'hotzazhi/gsh-zk/基本元器件-电容',
+        'hotzazhi/gsh-zk/论文工具收集',
+        'hotzazhi/gsh-zk/基本元器件-电感与磁珠',
+        'hotzazhi/gsh-zk/基本元器件-二极管',
+        'hotzazhi/gsh-zk/基本元器件-晶体三级管',
       ],
     },
 
