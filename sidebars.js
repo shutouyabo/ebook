@@ -168,7 +168,6 @@ const sidebars = {
       //keywords: ['x', 'x'],
     },
     items: [
-      '使用R语言进行数据分析',
       'CSS学习笔记',
       'HTML学习笔记',
     ],
@@ -263,7 +262,6 @@ const sidebars = {
     },
     items: [
       '转义字符',
-      '一个舵机的自我修养',
       'FreeRTOS开发笔记',
     ],
   },
@@ -297,9 +295,6 @@ const sidebars = {
       //keywords: ['x', 'x'],
     },
     items: [
-      '四校交流-策划案',
-      '四校交流-策划案-正式',
-      '团队知识库的搭建-理论',
       '校门口车辆放行-流程',
     ],
   },
@@ -314,7 +309,6 @@ const sidebars = {
     items: [
       '中台的概念',
       '智能硬件产品经理的技术要求',
-      '软件开发中的注意事项',
       '专业与分工',
     ],
   },
@@ -331,9 +325,7 @@ const sidebars = {
       'Windows常用命令',
       'Windows11个人初始化配置',
       'VSCode的便携模式',
-      '移除Chrome（Edge）由组织管理',
       '用群晖自带反向代理实现HTTPS访问',
-      '使用gitignore忽略特殊文件',
       '用reveal.js制作幻灯片',
       'npm和Yarn换源加速国内访问',
       'Vue.js小技巧',
@@ -341,12 +333,10 @@ const sidebars = {
       'GitHub改Host',
       'MSI主板开启虚拟化的方法',
       'Git配置代理',
-      '删除GitHub仓库中某个文件夹',
       '用Vercel加速Pages服务',
       'Doxygen注释规范',
       'AltiumDesigner安装库文件',
       'CentOS配置OhMyZsh',
-      '使用VSCode进行远程开发',
       'Node.js和npm的安装与卸载（MacOS）',
     ],
   },
@@ -360,14 +350,8 @@ const sidebars = {
       //keywords: ['life', 'lifestyle'],
     },
     items: [
-      '太阳高度角计算',
-      '谈谈未来的职业选择',
-      //'英语六级-备考',
-      //'音乐相关',
       'THEHack2019黑客马拉松',
       'Hack.init()黑客马拉松',
-      //'为什么要「站在巨人的肩膀上」',
-      //'一些观点',
     ],
   },
   {
@@ -380,12 +364,9 @@ const sidebars = {
     },
     items: [
 
-      '使用Rclone同步网盘数据',
-
       'Windows初始化与软件推荐', // CSDN todo
       'Docusaurus极简部署指南', // CSDN todo
       'Hugo极简搭建指南', // CSDN todo
-      '用树莓派架设云打印服务器', // CSDN todo
       '用Graphviz绘制关系图', // CSDN todo
       'RSS-高效率的阅读方式',
       'VSCode生产力指南-环境配置', // CSDN todo
