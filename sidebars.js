@@ -5,10 +5,10 @@ const sidebars = {
     'Home',
 
     {
-      type: 'category',
+      type: '热门杂志',
       label: '故事会 正刊',
       link: {
-        //slug: '/热门杂志',
+        slug: '/热门杂志',
         type: 'generated-index',
         //description: '',
         //keywords: ['热门杂志', '故事会正刊', '故事会' ],
@@ -36,7 +36,7 @@ const sidebars = {
     },
 
     {
-      type: 'category',
+      type: '热门杂志',
       label: '故事会 校园版',
       link: {
         type: 'generated-index',
@@ -49,7 +49,7 @@ const sidebars = {
     },
 
     {
-      type: 'category',
+      type: '热门杂志',
       label: '意林',
       link: {
         type: 'generated-index',
@@ -62,7 +62,7 @@ const sidebars = {
     },
 
     {
-      type: 'category',
+      type: '热门杂志',
       label: '读者',
       link: {
         type: 'generated-index',
