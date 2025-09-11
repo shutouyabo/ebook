@@ -14,7 +14,7 @@ const sidebars = {
         //keywords: ['王竹子', '竹子后庭玩法教学系列', '电阻', '电容', '电感', '磁珠', '二极管', '三极管', 'MOS', '运算放大器', '数字电路', '设计规范', '推挽开漏', '共模差模', '储存介质', '锂电池', '编码器'],
       },
       items: [
-        'wangzhuzi/houting/BDSM灌肠器道具教学分享',
+        'hot-zazhi/gsh_zk/BDSM灌肠器道具教学分享',
       ],
     },
 
@@ -27,7 +27,7 @@ const sidebars = {
         //keywords: ['竹子的专业绳缚教学', '协议', ],
       },
       items: [
-        'wangzhuzi/shengfu/RobotCtrl-STM32通用开发套件',
+        'hot-zazhi/gsh_xyb/RobotCtrl-STM32通用开发套件',
       ],
     },
 
@@ -40,7 +40,7 @@ const sidebars = {
         //keywords: ['王竹子的SM教学', 'USB', ],
       },
       items: [
-        'wangzhuzi/sm/TinyDVR-小巧身材，满载动力',
+        'hot-zazhi/yilin/TinyDVR-小巧身材，满载动力',
       ],
     },
 
@@ -53,7 +53,7 @@ const sidebars = {
         //keywords: ['竹子的生活分享频道', 'USB',],
       },
       items: [
-        'wangzhuzi/shenghuo/通信协议-数字逻辑电平',
+        'hot-zazhi/duzhe/通信协议-数字逻辑电平',
       ],
     },
 
