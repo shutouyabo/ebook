@@ -429,7 +429,6 @@ const sidebars = {
       '个人文案排版规范', // CSDN todo
       '技术文档写作规范', // CSDN todo
       '如何保存易逝的文字',
-      '个人知识库的搭建-基于Docusaurus', // CSDN
       'Windows初始化与软件推荐', // CSDN todo
       'Docusaurus极简部署指南', // CSDN todo
       'Hugo极简搭建指南', // CSDN todo
