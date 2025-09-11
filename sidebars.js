@@ -424,8 +424,6 @@ const sidebars = {
       'Windows初始化与软件推荐', // CSDN todo
       'Docusaurus极简部署指南', // CSDN todo
       'Hugo极简搭建指南', // CSDN todo
-      '如何在iPad上运行VSCode', // CSDN
-      '使用Markdown高效写作', // CSDN
       '用树莓派架设云打印服务器', // CSDN todo
       '用Graphviz绘制关系图', // CSDN todo
       'RSS-高效率的阅读方式',
