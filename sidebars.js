@@ -44,7 +44,7 @@ const sidebars = {
         //keywords: ['热门杂志', '故事会校园版', '故事会' ],
       },
       items: [
-        'hot-zazhi/gsh_xyb/RobotCtrl-STM32通用开发套件',
+        'hot-zazhi/故事会_校园版/RobotCtrl-STM32通用开发套件',
       ],
     },
 
@@ -57,7 +57,7 @@ const sidebars = {
         //keywords: ['热门杂志', '杂志', '意林' ],
       },
       items: [
-        'hot-zazhi/yilin/TinyDVR-小巧身材，满载动力',
+        'hot-zazhi/意林/TinyDVR-小巧身材，满载动力',
       ],
     },
 
@@ -70,7 +70,7 @@ const sidebars = {
         //keywords: ['热门杂志', '杂志', '读者' ],
       },
       items: [
-        'hot-zazhi/duzhe/通信协议-数字逻辑电平',
+        'hot-zazhi/读者/通信协议-数字逻辑电平',
       ],
     },
 
