@@ -131,15 +131,8 @@ const sidebars = {
       //keywords: ['x', 'x'],
     },
     items: [
-      'Linux学习笔记-基础知识',
-      'Linux学习笔记-用户操作',
       'BeagleBone系列-基本参数与环境配置',
-      'BeagleBone系列-无线连接',
-      'BeagleBone系列-使用BBIO库开发',
-      'BeagleBone系列-BBAI入坑',
-      'JetsonNano系列-入坑',
-      'ATTiny85调试记录',
-      'T-Clock桌上小钟',
+
     ],
   },
 
@@ -153,9 +146,7 @@ const sidebars = {
     },
     items: [
       'HAL库开发笔记-环境配置',
-      'HAL库开发笔记-GPIO',
-      'HAL库开发笔记-外部中断',
-      'HAL库开发笔记-串口通信',
+
     ],
   },
 
@@ -169,7 +160,6 @@ const sidebars = {
     },
     items: [
       'CSS学习笔记',
-      'HTML学习笔记',
     ],
   },
 
@@ -183,7 +173,6 @@ const sidebars = {
     },
     items: [
       'HAL库开发笔记-DMA',
-      'HAL库开发笔记-TIM基本定时器',
     ],
   },
 
@@ -197,9 +186,6 @@ const sidebars = {
     },
     items: [
       'JavaScript学习笔记',
-      'Docker简易指南',
-      'DockerCompose-更优雅的打开方式',
-      '自适应网页设计',
     ],
   },
 
@@ -213,11 +199,6 @@ const sidebars = {
     },
     items: [
       'HAL库开发笔记-TIM通用定时器',
-      'HAL库开发笔记-I2C通信（MPU6050）',
-      'HAL库开发笔记-CAN通信',
-      'HAL库开发笔记-USB通信',
-      'HAL库开发笔记-以太网通信（LwIP）',
-      'Lora通信-基于正点原子ATK-LORA-01模块',
     ],
   },
 
@@ -231,7 +212,6 @@ const sidebars = {
     },
     items: [
       'BookJourney-二手书商城小程序',
-      'Git学习笔记',
     ],
   },
 
@@ -245,10 +225,6 @@ const sidebars = {
     },
     items: [
       'STM32CubeIDE串口重定向（printf）及输出浮点型',
-      'PlatformIO—一站式嵌入式开发工具',
-      'PlatformIO搭配CubeMX食用',
-      'C与STM32常用宏定义',
-      'C与STM32代码规范',
     ],
   },
 
@@ -262,7 +238,6 @@ const sidebars = {
     },
     items: [
       '转义字符',
-      'FreeRTOS开发笔记',
     ],
   },
 
@@ -276,9 +251,6 @@ const sidebars = {
     },
     items: [
       'SWD与JTAG的区别与联系',
-      'CubeMX与CubeIDE避坑',
-      'STM32的启动模式',
-      'KeilMDK配置指南',
     ],
   },
 
@@ -308,8 +280,6 @@ const sidebars = {
     },
     items: [
       '中台的概念',
-      '智能硬件产品经理的技术要求',
-      '专业与分工',
     ],
   },
 
@@ -323,21 +293,6 @@ const sidebars = {
     },
     items: [
       'Windows常用命令',
-      'Windows11个人初始化配置',
-      'VSCode的便携模式',
-      '用群晖自带反向代理实现HTTPS访问',
-      '用reveal.js制作幻灯片',
-      'npm和Yarn换源加速国内访问',
-      'Vue.js小技巧',
-      '正则表达式实用语句',
-      'GitHub改Host',
-      'MSI主板开启虚拟化的方法',
-      'Git配置代理',
-      '用Vercel加速Pages服务',
-      'Doxygen注释规范',
-      'AltiumDesigner安装库文件',
-      'CentOS配置OhMyZsh',
-      'Node.js和npm的安装与卸载（MacOS）',
     ],
   },
   {
@@ -351,7 +306,6 @@ const sidebars = {
     },
     items: [
       'THEHack2019黑客马拉松',
-      'Hack.init()黑客马拉松',
     ],
   },
   {
@@ -363,15 +317,7 @@ const sidebars = {
       //keywords: ['x', 'x'],
     },
     items: [
-
-      'Windows初始化与软件推荐', // CSDN todo
-      'Docusaurus极简部署指南', // CSDN todo
-      'Hugo极简搭建指南', // CSDN todo
-      '用Graphviz绘制关系图', // CSDN todo
       'RSS-高效率的阅读方式',
-      'VSCode生产力指南-环境配置', // CSDN todo
-      'VSCode生产力指南-JupyterNotebook', // CSDN todo
-      '在浏览器上运行VSCode（旧）',
     ],
   },
   ],
@@ -380,24 +326,5 @@ const sidebars = {
 
 module.exports = sidebars;
 
-// archive：
-//'archive/Python学习笔记',
-//'archive/STM32麦轮小车',
-//'archive/RM校内赛-前期策划',
-//'archive/报告书都要写些什么？',
-//'archive/无人驾驶比赛',
-//'archive/硬件模块',
-//'archive/命令行基本操作'
-//'archive/科技X的访谈',
-//'archive/极简面包-烘培',
-//'电路设计中常用的接口及关键点',
-//'archive/Bash基础',
-//'archive/从零搭建视觉开发环境（Docker-Linux）',
-//'archive/Excel批量激活链接并转为图片',
-//'archive/智能硬件产品开发流程',
-//'archive/华广爬楼指北',
-//'archive/小车游华广-比赛',
-//'archive/麦昆小车-测评',
-//'archive/STM32模块设计-LED',
-//'archive/团队公开知识库的搭建',
+
 
