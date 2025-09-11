@@ -286,7 +286,6 @@ const sidebars = {
       'CubeMX与CubeIDE避坑',
       'STM32的启动模式',
       'KeilMDK配置指南',
-      '大疆N3飞控-参考资料',
     ],
   },
 
@@ -307,13 +306,10 @@ const sidebars = {
       '四校交流-策划案-正式',
       '团队知识库的搭建-理论',
       '队内影像资源管理方法',
-      '大扫除-经验模板',
       '校门口车辆放行-流程',
-      '参观实验室-经验模板',
       '动员大会-经验总结',
       '换届大会-经验总结',
       '破冰活动-经验总结',
-      '出展活动-经验总结',
     ],
   },
   {
@@ -325,7 +321,6 @@ const sidebars = {
       //keywords: ['x', 'x'],
     },
     items: [
-      '产品经理的日常',
       '中台的概念',
       '画图基础',
       '智能硬件产品经理的技术要求',
@@ -353,7 +348,6 @@ const sidebars = {
       '用群晖自带反向代理实现HTTPS访问',
       '解决Google相册导出时间信息丢失问题',
       '使用gitignore忽略特殊文件',
-      '3D打印：ABS与PLA的区别',
       '如何批量拉取Git仓库更新',
       '如何用Markdown写公众号文章',
       '如何快速删除node_modules',
@@ -428,7 +422,6 @@ const sidebars = {
       '用Graphviz绘制关系图', // CSDN todo
       'RSS-高效率的阅读方式',
       '如何在Markdown中使用LaTeX',
-      '把回忆放心交给GooglePhotos',
       'VSCode生产力指南-环境配置', // CSDN todo
       'VSCode生产力指南-JupyterNotebook', // CSDN todo
       '在浏览器上运行VSCode（旧）',
