@@ -133,8 +133,6 @@ const sidebars = {
     items: [
       'Linux学习笔记-基础知识',
       'Linux学习笔记-用户操作',
-      '嵌入式Linux-基础知识',
-      '嵌入式Linux-GPIO子系统',
       'BeagleBone系列-基本参数与环境配置',
       'BeagleBone系列-无线连接',
       'BeagleBone系列-使用BBIO库开发',
@@ -233,10 +231,8 @@ const sidebars = {
       //keywords: ['x', 'x'],
     },
     items: [
-      '前端开发-环境搭建',
       'BookJourney-二手书商城小程序',
       'Git学习笔记',
-      '麦轮小车',
     ],
   },
 
@@ -250,7 +246,6 @@ const sidebars = {
     },
     items: [
       'STM32CubeIDE串口重定向（printf）及输出浮点型',
-      '如何读写单个bit',
       'PlatformIO—一站式嵌入式开发工具',
       'PlatformIO搭配CubeMX食用',
       'C与STM32常用宏定义',
@@ -306,8 +301,6 @@ const sidebars = {
       '四校交流-策划案-正式',
       '团队知识库的搭建-理论',
       '校门口车辆放行-流程',
-      '换届大会-经验总结',
-      '破冰活动-经验总结',
     ],
   },
   {
@@ -320,12 +313,9 @@ const sidebars = {
     },
     items: [
       '中台的概念',
-      '画图基础',
       '智能硬件产品经理的技术要求',
-      '如何撰写一份BRD',
       '软件开发中的注意事项',
       '专业与分工',
-      '关于复盘',
     ],
   },
 
@@ -341,20 +331,9 @@ const sidebars = {
       'Windows常用命令',
       'Windows11个人初始化配置',
       'VSCode的便携模式',
-      '开启Chrome（Edge）多线程下载',
       '移除Chrome（Edge）由组织管理',
       '用群晖自带反向代理实现HTTPS访问',
-      '解决Google相册导出时间信息丢失问题',
       '使用gitignore忽略特殊文件',
-      '如何批量拉取Git仓库更新',
-      '如何用Markdown写公众号文章',
-      '如何快速删除node_modules',
-      '如何为公众号文章增加特效',
-      '如何在Linux下使用微信',
-      '如何打印出手写效果的文字',
-      '如何从乐曲中分离音轨',
-      '如何高效制作幻灯片',
-      '卡片式写作',
       '用reveal.js制作幻灯片',
       'npm和Yarn换源加速国内访问',
       'Vue.js小技巧',
@@ -367,7 +346,6 @@ const sidebars = {
       'Doxygen注释规范',
       'AltiumDesigner安装库文件',
       'CentOS配置OhMyZsh',
-      '如何快速制作一个启动盘',
       '使用VSCode进行远程开发',
       'Node.js和npm的安装与卸载（MacOS）',
     ],
@@ -382,18 +360,13 @@ const sidebars = {
       //keywords: ['life', 'lifestyle'],
     },
     items: [
-      '如何调制一杯鸡尾酒',
       '太阳高度角计算',
-      '如何准备一个逃生背包',
       '谈谈未来的职业选择',
-      //'如何合理配置个人资产',
       //'英语六级-备考',
       //'音乐相关',
       'THEHack2019黑客马拉松',
       'Hack.init()黑客马拉松',
-      '焊接大赛培训及总结',
       //'为什么要「站在巨人的肩膀上」',
-      '如何不被AI取代',
       //'一些观点',
     ],
   },
@@ -408,19 +381,16 @@ const sidebars = {
     items: [
 
       '使用Rclone同步网盘数据',
-      '技术文档写作规范', // CSDN todo
-      '如何保存易逝的文字',
+
       'Windows初始化与软件推荐', // CSDN todo
       'Docusaurus极简部署指南', // CSDN todo
       'Hugo极简搭建指南', // CSDN todo
       '用树莓派架设云打印服务器', // CSDN todo
       '用Graphviz绘制关系图', // CSDN todo
       'RSS-高效率的阅读方式',
-      '如何在Markdown中使用LaTeX',
       'VSCode生产力指南-环境配置', // CSDN todo
       'VSCode生产力指南-JupyterNotebook', // CSDN todo
       '在浏览器上运行VSCode（旧）',
-      '如何配一台电脑',
     ],
   },
   ],
