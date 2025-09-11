@@ -481,5 +481,3 @@ module.exports = sidebars;
 // preview
 //'我是如何做数据容灾的',
 //'如何用Markdown写学术论文',
-//'AD基本操作-PCB绘制',
-//'AD基本操作-库文件绘制',
