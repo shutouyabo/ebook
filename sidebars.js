@@ -1,24 +1,9 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
 
-
   Home: [
+    'Home',
 
-    {
-    type: 'category',
-    label: 'Home',
-    link: {
-      //slug: '/Home',
-      type: 'generated-index',
-      //description: 'describtion to be updated',
-      //keywords: ['x', 'x'],
-    },
-    items: [
-      'Home',
-    ],
-  },
-
-  ],
 
 
 
