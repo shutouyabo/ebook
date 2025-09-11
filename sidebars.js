@@ -15,11 +15,6 @@ const sidebars = {
       },
       items: [
         'wangzhuzi/houting/BDSM灌肠器道具教学分享',
-        'wangzhuzi/houting/基本元器件-电容',
-        'wangzhuzi/houting/论文工具收集',
-        'wangzhuzi/houting/基本元器件-电感与磁珠',
-        'wangzhuzi/houting/基本元器件-二极管',
-        'wangzhuzi/houting/基本元器件-晶体三级管',
       ],
     },
 
@@ -33,13 +28,6 @@ const sidebars = {
       },
       items: [
         'wangzhuzi/shengfu/RobotCtrl-STM32通用开发套件',
-        'wangzhuzi/shengfu/RobotCtrl_Core-核心板',
-        'wangzhuzi/shengfu/RobotCtrl_Func-外设拓展板',
-        'wangzhuzi/shengfu/RobotCtrl_Power-电源供电板',
-        'wangzhuzi/shengfu/Flip-基于全志F1C200s的Linux开发板',
-        'wangzhuzi/shengfu/OSD335x最小系统的设计',
-        'wangzhuzi/shengfu/如何设计一款单片机的最小系统',
-        'wangzhuzi/shengfu/STM32F4硬件开发',
       ],
     },
 
@@ -53,29 +41,6 @@ const sidebars = {
       },
       items: [
         'wangzhuzi/sm/TinyDVR-小巧身材，满载动力',
-        'wangzhuzi/sm/RaptorDVR-集成稳压的30A双电机驱动',
-        'wangzhuzi/sm/AirForce-充满灵性的电机驱动模块',
-        'wangzhuzi/sm/ZenDriver-高性能的电机驱动',
-        'wangzhuzi/sm/电源设计-方案确定',
-        'wangzhuzi/sm/电源拓扑-线性稳压',
-        'wangzhuzi/sm/电源拓扑-开关稳压（非隔离型）',
-        'wangzhuzi/sm/电源拓扑-开关稳压（隔离型）',
-        'wangzhuzi/sm/电源设计-开关稳压IC（非隔离型）',
-        'wangzhuzi/sm/电源设计-自举电路',
-        'wangzhuzi/sm/电源设计-纹波噪声与测量方法',
-        'wangzhuzi/sm/电源方案（LDO）-XC6206',
-        'wangzhuzi/sm/电源方案（Buck）-LMR14050',
-        'wangzhuzi/sm/电源方案（Buck）-TPS54531',
-        'wangzhuzi/sm/电源方案（Buck）-XL2009E1',
-        'wangzhuzi/sm/电源方案（Boost）-SX1308',
-        'wangzhuzi/sm/电源方案（PMIC）-EA3036C',
-        'wangzhuzi/sm/电源方案（PMIC）-EA3059',
-        'wangzhuzi/sm/函数思想在电路设计中的应用',
-        'wangzhuzi/sm/示波器的触发模式',
-        'wangzhuzi/sm/网络分析仪的使用',
-        'wangzhuzi/sm/逻辑分析仪的使用',
-        'wangzhuzi/sm/宽带注入变压器的使用',
-        'wangzhuzi/sm/线性注入器的使用',
       ],
     },
 
@@ -89,11 +54,6 @@ const sidebars = {
       },
       items: [
         'wangzhuzi/shenghuo/通信协议-数字逻辑电平',
-        'wangzhuzi/shenghuo/通信协议-串口通信',
-        'wangzhuzi/shenghuo/通信协议-SPI',
-        'wangzhuzi/shenghuo/通信协议-I2C',
-        'wangzhuzi/shenghuo/通信协议-CAN',
-        'wangzhuzi/shenghuo/通信协议-USB',
       ],
     },
 
@@ -115,10 +75,6 @@ const sidebars = {
     },
     items: [
       'zuiqingzhou/nvyoujieshao/双系统极简安装指南',
-      'zuiqingzhou/nvyoujieshao/网页版串口助手的开发',
-      'zuiqingzhou/nvyoujieshao/Ubuntu配置笔记',
-      'zuiqingzhou/nvyoujieshao/ROS入门笔记',
-      'zuiqingzhou/nvyoujieshao/机器视觉入门',
     ],
   },
 
