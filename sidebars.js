@@ -8,7 +8,7 @@ const sidebars = {
     type: 'category',
     label: 'Home',
     link: {
-      slug: '/Home',
+      //slug: '/Home',
       type: 'generated-index',
       //description: 'describtion to be updated',
       //keywords: ['x', 'x'],
