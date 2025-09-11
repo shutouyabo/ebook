@@ -14,7 +14,7 @@ const sidebars = {
         //keywords: ['热门杂志', '故事会正刊', '故事会' ],
       },
       items: [
-        'hot-zazhi/gsh_zk/BDSM灌肠器道具教学分享',
+        'hot-zazhi/gsh_zk/故事会2025',
       ],
     },
 
