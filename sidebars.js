@@ -5,7 +5,7 @@ const sidebars = {
     'Home',
 
     {
-      type: 'category1',
+      type: 'categoryw',
       label: '故事会 正刊',
       link: {
         slug: '/热门杂志',
@@ -36,7 +36,7 @@ const sidebars = {
     },
 
     {
-      type: 'category1',
+      type: 'categoryw',
       label: '故事会 校园版',
       link: {
         type: 'generated-index',
@@ -49,7 +49,7 @@ const sidebars = {
     },
 
     {
-      type: 'category1',
+      type: 'categoryw',
       label: '意林',
       link: {
         type: 'generated-index',
@@ -62,7 +62,7 @@ const sidebars = {
     },
 
     {
-      type: 'category1',
+      type: 'categoryw',
       label: '读者',
       link: {
         type: 'generated-index',
