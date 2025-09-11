@@ -8,9 +8,9 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'SM Wiki',
+  title: '电子书下载',
   tagline: '^_^',
-  url: 'https://sm.zhihu.blog',
+  url: 'https://ebook.zhihu.blog',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -80,8 +80,8 @@ const config = {
           blogSidebarTitle: 'Recent',
           feedOptions: {
             type: 'all',
-            title: 'Power\'s Blog',
-            description: 'Power\'s Wiki 的博客 RSS',
+            title: '电子书下载',
+            description: '电子书下载 RSS',
             copyright: `Copyright © ${new Date().getFullYear()} Power Lin.`,
           },
         },
@@ -114,7 +114,7 @@ const config = {
       algolia: {
 
         apiKey: '5c07d8bf9c9928c4453857f6cad0420e',//?02bd2340879bdb682f2a9fe509fec240
-        indexName: 'wiki-power', //
+        indexName: '电子书下载', //
 
         // The application ID provided by Algolia
         appId: 'BH4D9OD16A', //BH4D9OD16A 是默认的，文档见 https://autocomplete-experimental.netlify.app/docs/docsearchmodal/#appid，用自己的 ID IRO903CONI 反而搜不出内容 
@@ -156,7 +156,7 @@ const config = {
       },
 
       navbar: {
-        title: 'SM Wiki',
+        title: '电子书下载',
         hideOnScroll: true,
         /*
         logo: {
