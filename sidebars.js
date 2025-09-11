@@ -6,7 +6,7 @@ const sidebars = {
 
     {
       type: 'category',
-      label: '竹子后庭玩法教学系列',
+      label: '《故事会》正刊',
       link: {
         slug: '/热门杂志',
         type: 'generated-index',
@@ -20,7 +20,7 @@ const sidebars = {
 
     {
       type: 'category',
-      label: '竹子的专业绳缚教学',
+      label: '《故事会》校园版',
       link: {
         type: 'generated-index',
         //description: ' ',
@@ -33,7 +33,7 @@ const sidebars = {
 
     {
       type: 'category',
-      label: '王竹子的SM教学',
+      label: '《意林》',
       link: {
         type: 'generated-index',
         //description: ' ',
@@ -46,7 +46,7 @@ const sidebars = {
 
     {
       type: 'category',
-      label: '竹子的生活分享频道',
+      label: '《读者》',
       link: {
         type: 'generated-index',
         //description: ' ',
