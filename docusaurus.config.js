@@ -167,11 +167,7 @@ const config = {
 
 
         items: [
-          {
-            to: "Home",
-            label: "Home",
-            position: "left",
-          },
+
           {
             to: "热门杂志",
             label: "热门杂志",
