@@ -1,11 +1,6 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
 
-  Home: [
-    'Home',
-
-
-
 
   热门杂志: [
 
