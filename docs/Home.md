@@ -4,9 +4,7 @@ title: Power's Wiki
 sidebar_label: Home
 slug: /
 ---
-<p align="center">
-<img src=".github/logo.png" alt="Project Logo">
-</p>
+
 
 # 电子书下载宝库
 
