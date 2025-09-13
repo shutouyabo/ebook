@@ -3,9 +3,6 @@
 
 # 电子书下载宝库
 
-![GitHub](https://img.shields.io/github/license/jbiaojerry/ebook-treasure-chest)
-![GitHub stars](https://img.shields.io/github/stars/jbiaojerry/ebook-treasure-chest?style=social)
-![GitHub forks](https://img.shields.io/github/forks/jbiaojerry/ebook-treasure-chest?style=social)
 
 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。
 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
