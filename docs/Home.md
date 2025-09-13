@@ -1,39 +1,25 @@
+---
+id: Home
+title: Power's Wiki
+sidebar_label: Home
+slug: /
+---
 
+<!--  一个不会讲故事的攻城狮，算不上一个很酷的产品汪~-->
 
+[![badge](https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlinyuxuanlin&labelColor=555555&color=282c34&longCache=true?&style=for-the-badge)](https://github.com/linyuxuanlin)
+[![badge](https://img.shields.io/badge/dynamic/json?color=282c34&labelColor=0084ff&label=ZHIHU&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dlinyuxuanlin&longCache=true?&style=for-the-badge)](https://www.zhihu.com/people/linyuxuanlin)
+[![badge](https://img.shields.io/badge/dynamic/json?label=SSPAI&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dsspai%26queryKey%3Dpower&color=282c34&labelColor=d71a1b&longCache=true?&style=for-the-badge)](https://sspai.com/u/power/)
+[![badge](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&label=BILIBILI&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D349536948&color=282c34&longCache=true?&style=for-the-badge)](https://space.bilibili.com/349536948)
 
-# 电子书下载宝库
+Hi there~  
+这是我的知识库。
 
+为了避免遗忘、便于分享，我在这里收录知识。  
+请随意浏览～
 
-欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。
-该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
+[![badge](https://img.shields.io/github/deployments/linyuxuanlin/Wiki_Docusaurus/Production?label=Build&style=flat-square)](https://vercel.com/linyuxuanlin/wiki-docusaurus/deployments)
+[![badge](https://img.shields.io/github/last-commit/linyuxuanlin/Wiki_Docusaurus?color=FCD734&label=Last%20commit&style=flat-square)](https://github.com/linyuxuanlin/Wiki_Docusaurus/commits/main)
+[![badge](https://img.shields.io/badge/Contact%20me-here-34ABE0?&style=flat-square)](ContactMe)
 
-## 简介
-
-我们从各个电子书网站上精心收集了各种电子书下载链接，并根据常用的标签对它们进行了简单分类。每本书都包括了三种常见格式文件：epub、mobi 和 azw3，以满足不同阅读设备和喜好的需求。
-
-## 如何使用
-
-浏览我们的下载宝库非常简单：
-
-1. 在下方目录索引点击关键词或者“Ctrl+F”搜索标签，以找到你感兴趣的电子书类型;
-2. 点击标签或搜索结果，即可进入详细的下载链接页面，点击书名可以查看图书封面;
-3. 在下载链接页面，你将找到包含epub、mobi、azw3格式的下载链接，点击下载即可。
-
-## 支持我们
-
-如果你有电子书资源想要分享，或者发现了链接失效或有其他问题，请不要犹豫，立刻提出问题或贡献你的资源。我们欢迎任何形式的贡献，让这个宝库变得更加丰富和有用。
-
-### 请我们喝咖啡
-
-如果这个项目对你有帮助，欢迎请我们喝杯咖啡！你的支持是我们持续维护和更新这个项目的动力。
-
-<img src=".github/赞赏码.jpg" alt="赞赏码" width="200">
-
-## 许可证
-
-该项目基于开源许可证MIT许可证发布。请查看 [LICENSE](LICENSE) 文件以获取详细信息。
-
-![Happy Reading](https://media.giphy.com/media/l2SpQRuiLWz8K/giphy.gif)
-
-让我们一起享受阅读的乐趣吧！如果你喜欢这个项目，请不要忘记给它点个星星⭐️以表示支持。感谢你的参与和支持！
-
+<h6>Power Lin |  <a href="https://beian.miit.gov.cn"> 粤 ICP 备 20014898 号 </a> | Built with Docusaurus</h6>
