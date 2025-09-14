@@ -221,7 +221,7 @@ const config = {
             href: 'https://github.com/linyuxuanlin/File-host',
           },
 
-          <script type="text/javascript" src="https://js.users.51.la/21983665.js"></script>
+         document.write ('<script type="text/javascript"  src="https://js.users.51.la/21983665.js"></script>');
 
           /*
           {
