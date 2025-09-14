@@ -246,7 +246,7 @@ const config = {
           */
         ],
 
-           <script type="text/javascript" src="//js.users.51.la/21983665.js"></script>
+      
         
         //copyright: `by Power Lin | 粤 ICP 备 20014898 号 | Built with Docusaurus.`,
       },
