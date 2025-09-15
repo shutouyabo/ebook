@@ -79,33 +79,32 @@ const sidebars = {
 
 
 
-  小说: [
+  杂志: [
 
     {
     type: 'category',
-    label: '女优介绍',
+    label: '知音',
     link: {
-      slug: '/小说',
+      slug: '/杂志',
       type: 'generated-index',
       //description: 'describtion to be updated',
       //keywords: ['x', 'x'],
     },
     items: [
-      'zuiqingzhou/nvyoujieshao/双系统极简安装指南',
+      '杂志/知音/知音2025年',
     ],
   },
 
   {
     type: 'category',
-    label: '真实采访',
+    label: '知音_海外版',
     link: {
       type: 'generated-index',
       //description: 'describtion to be updated',
       //keywords: ['x', 'x'],
     },
     items: [
-      'BeagleBone系列-基本参数与环境配置',
-
+      '杂志/知音_海外版/知音_海外版2025年',
     ],
   },
 

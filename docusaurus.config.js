@@ -174,8 +174,8 @@ const config = {
             position: "left",
           },
           {
-            to: "小说",
-            label: "小说",
+            to: "杂志",
+            label: "杂志",
             position: "left",
           },
           {
