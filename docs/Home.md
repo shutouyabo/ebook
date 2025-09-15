@@ -4,7 +4,6 @@ title: Power's Wiki
 sidebar_label: Home
 slug: /
 ---
-
 <!--  一个不会讲故事的攻城狮，算不上一个很酷的产品汪~-->
 
 [![badge](https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlinyuxuanlin&labelColor=555555&color=282c34&longCache=true?&style=for-the-badge)](https://github.com/linyuxuanlin)
@@ -12,10 +11,10 @@ slug: /
 [![badge](https://img.shields.io/badge/dynamic/json?label=SSPAI&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dsspai%26queryKey%3Dpower&color=282c34&labelColor=d71a1b&longCache=true?&style=for-the-badge)](https://sspai.com/u/power/)
 [![badge](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&label=BILIBILI&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D349536948&color=282c34&longCache=true?&style=for-the-badge)](https://space.bilibili.com/349536948)
 
-Hi there~  
+Hi there~
 这是我的知识库。
 
-为了避免遗忘、便于分享，我在这里收录知识。  
+为了避免遗忘、便于分享，我在这里收录知识。
 请随意浏览～
 
 [![badge](https://img.shields.io/github/deployments/linyuxuanlin/Wiki_Docusaurus/Production?label=Build&style=flat-square)](https://vercel.com/linyuxuanlin/wiki-docusaurus/deployments)
@@ -23,7 +22,6 @@ Hi there~
 [![badge](https://img.shields.io/badge/Contact%20me-here-34ABE0?&style=flat-square)](ContactMe)
 
 <h6>Power Lin |  <a href="https://beian.miit.gov.cn"> 粤 ICP 备 20014898 号 </a> | Built with Docusaurus</h6>
-
 
 # 电子书下载宝库
 
@@ -50,15 +48,17 @@ Hi there~
 
 如果这个项目对你有帮助，欢迎请我们喝杯咖啡！你的支持是我们持续维护和更新这个项目的动力。
 
-
-
-
-
 # 索引目录
 
-## 热门杂志
+#### 热门杂志
 
-- [故事会 正刊](热门杂志)  | - [故事会 校园版](category/故事会-校园版)  | - [意林](category/意林)  | - [读者](category/读者)  | 
+- [故事会 正刊](热门杂志)  | - [故事会 校园版](category/故事会-校园版)  | - [意林](category/意林)  | - [读者](category/读者)  |
+
+
+#### 杂志
+
+- [知音](杂志)  | - [知音 海外版](category/知音_海外版)  |
+
 
 
 - [文学(2711)](md/文学.md)  | - [历史(1748)](md/历史.md)  | - [科普(743)](md/科普.md)  | - [管理(613)](md/管理.md)  | - [社会(558)](md/社会.md)  | - [推理(531)](md/推理.md)  | - [经典(494)](md/经典.md)  | - [经济(487)](md/经济.md)
@@ -187,9 +187,6 @@ Hi there~
 - [家训(1)](md/家训.md)  | - [教练(1)](md/教练.md)  | - [地球(1)](md/地球.md)  | - [访谈录(1)](md/访谈录.md)  | - [维也纳(1)](md/维也纳.md)  | - [蒙田(1)](md/蒙田.md)  | - [孩子(1)](md/孩子.md)  | - [编程语言(1)](md/编程语言.md)
 - [自然科学(1)](md/自然科学.md)  | - [微软(1)](md/微软.md)  | - [协同(1)](md/协同.md)  | - [公益(1)](md/公益.md)  | - [婚恋(1)](md/婚恋.md)  | - [福尔摩斯(1)](md/福尔摩斯.md)  | - [创投(1)](md/创投.md)  | - [迪士尼(1)](md/迪士尼.md)
 
-
-<script type="text/javascript" src="//js.users.51.la/21983665.js"></script>
+<script type="text/javascript" src="https://js.users.51.la/21983665.js"></script>
 
 <meta name="algolia-site-verification"  content="716A2B3FC84FEE9B" />
-
-
